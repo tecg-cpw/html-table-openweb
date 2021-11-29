@@ -1,8 +1,0 @@
-Présentation de quelques articles publiés sur OpenWeb
-Débutants  	Experts  	Gourous
-Tristan Nitot
-Introduction à l'accessibilité 	 
-Interview de Chantal Laplanche, Responsable Accessibilité Web au Ministère de la Culture
-Laurent Denis
-Un exemple de feuille de style d'impression 	  	 
-Commenter le document de travail W3CXHTML 2
