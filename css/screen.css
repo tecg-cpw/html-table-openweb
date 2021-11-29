@@ -13,7 +13,7 @@ table{
 }
 thead, tfoot{
 	background-color: #D0E3FA;
-	background-image: url("sky.jpg");
+	background-image: url("../sky.jpg");
 	border: 2px solid #6495ed;
 }
 tbody{
