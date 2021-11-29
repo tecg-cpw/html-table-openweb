@@ -17,3 +17,7 @@ Créez le fichier `index.html` avec les bonnes balises afin d’arriver au résu
 ![Résultat attendu](./rendu.png)
 
 N'oubliez pas de lier la feuille de styles qui se trouve dans le dossier `css`.
+
+# Ressource
+
+Tutoriel d’Openweb sur les tableaux : http://openweb.eu.org/articles/tableaux_css/
