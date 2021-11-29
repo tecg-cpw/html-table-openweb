@@ -11,9 +11,9 @@ http://openweb.eu.org/articles/tableaux_css/
         </title>
         <link rel="stylesheet" href="css/screen.css">
     </head>
-    <body>
-        <h1 role="heading" aria-level="1">
-            Table avec fusion de lignes
+    <body aria-labelledby="tp">
+        <h1 id="tp" role="heading" aria-level="1">
+            Table avec fusion de lignes et de colonnes
         </h1>
         <table>
             <caption>
@@ -61,8 +61,8 @@ http://openweb.eu.org/articles/tableaux_css/
                 <tr>
                     <!-- cellule recouverte par rowspan <th>Laurent Denis</th> -->
                     <td class="vide">&nbsp;</td> <!-- cellule vide -->
-                    <td headers="a2 ex go" colspan="2">Commenter le document de travail W3CXHTML 2</td>
-                    <!-- cellule recouverte par colspan <td>Commenter le document de travail W3CXHTML 2</td> -->
+                    <td headers="a2 ex go" colspan="2">Commenter le document de travail W3C XHTML 2</td>
+                    <!-- cellule recouverte par colspan <td>Commenter le document de travail W3C XHTML 2</td> -->
                 </tr>
             </tbody>
         </table>
