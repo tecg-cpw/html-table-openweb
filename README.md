@@ -15,7 +15,7 @@ Belgium, is a french-speaking school. From this point, the instruction will be i
 
 Créez le fichier `index.html` avec les bonnes balises afin d’arriver au résultat suivant :
 
-![Résultat attendu](./rendu.png)
+![Résultat attendu](./assets-starter/rendu.webp)
 
 L’objectif de cet exercice est de réaliser une table avec des fusions de lignes et de colonnes. Il est tiré d’un
 tutoriel d’Openweb que vous trouverez ci-dessous dans la rubrique ressources et que vous pouvez suivre pour vous aider à
@@ -106,4 +106,4 @@ va générer 8 lignes (8 balises `tr`) qui contiennent toutes un `th`avec un att
 
 ### Ressource
 
-Tutoriel d’Openweb sur les tableaux : https://openweb.eu.org/articles/tableaux_css
+Tutoriel d’Openweb sur les tableaux : http://openweb.eu.org/articles/tableaux_css/git 
