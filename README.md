@@ -106,4 +106,4 @@ va générer 8 lignes (8 balises `tr`) qui contiennent toutes un `th`avec un att
 
 ### Ressource
 
-Tutoriel d’Openweb sur les tableaux : http://openweb.eu.org/articles/tableaux_css/git 
+Tutoriel d’Openweb sur les tableaux : http://openweb.eu.org/articles/tableaux_css
